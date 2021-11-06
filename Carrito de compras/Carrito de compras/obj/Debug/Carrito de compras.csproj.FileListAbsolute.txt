@@ -1,0 +1,7 @@
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\Carrito de compras\Carrito de compras\bin\Debug\Carrito de compras.exe.config
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\Carrito de compras\Carrito de compras\bin\Debug\Carrito de compras.exe
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\Carrito de compras\Carrito de compras\bin\Debug\Carrito de compras.pdb
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\Carrito de compras\Carrito de compras\obj\Debug\Carrito de compras.csproj.AssemblyReference.cache
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\Carrito de compras\Carrito de compras\obj\Debug\Carrito de compras.csproj.CoreCompileInputs.cache
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\Carrito de compras\Carrito de compras\obj\Debug\Carrito de compras.exe
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\Carrito de compras\Carrito de compras\obj\Debug\Carrito de compras.pdb

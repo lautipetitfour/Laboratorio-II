@@ -1,0 +1,10 @@
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Integrador\bin\Debug\Integrador.exe.config
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Integrador\bin\Debug\Integrador.exe
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Integrador\bin\Debug\Integrador.pdb
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Integrador\obj\Debug\Integrador.csproj.AssemblyReference.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Integrador\obj\Debug\Integrador.Form1.resources
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Integrador\obj\Debug\Integrador.Properties.Resources.resources
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Integrador\obj\Debug\Integrador.csproj.GenerateResource.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Integrador\obj\Debug\Integrador.csproj.CoreCompileInputs.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Integrador\obj\Debug\Integrador.exe
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Integrador\obj\Debug\Integrador.pdb

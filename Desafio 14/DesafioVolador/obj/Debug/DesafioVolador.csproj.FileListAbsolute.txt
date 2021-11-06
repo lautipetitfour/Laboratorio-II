@@ -1,0 +1,7 @@
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Laboratorio-ll-juegos\DesafioVolador\bin\Debug\DesafioVolador.exe.config
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Laboratorio-ll-juegos\DesafioVolador\bin\Debug\DesafioVolador.exe
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Laboratorio-ll-juegos\DesafioVolador\bin\Debug\DesafioVolador.pdb
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Laboratorio-ll-juegos\DesafioVolador\obj\Debug\DesafioVolador.csproj.AssemblyReference.cache
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Laboratorio-ll-juegos\DesafioVolador\obj\Debug\DesafioVolador.csproj.CoreCompileInputs.cache
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Laboratorio-ll-juegos\DesafioVolador\obj\Debug\DesafioVolador.exe
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Laboratorio-ll-juegos\DesafioVolador\obj\Debug\DesafioVolador.pdb
